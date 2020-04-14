@@ -3,7 +3,6 @@
 This is a program on Adult Body Mass Index Calculator
 
 Submitted by:Shannon Jeet Singh
-Partipitant ID:5904
 Submitted to:Forsk Coding School, Jaipur
 
 """
